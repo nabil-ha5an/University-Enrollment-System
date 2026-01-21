@@ -3,4 +3,4 @@ A Student Friendly University Enrollment System made for the academic course COM
 
 ### Project Demonstration
 
-https://github.com/nabil-ha5an/University-Enrollment-System/releases/download/v1.0/University_Enrollment_System_Demo.mp4
+https://github.com/nabil-ha5an/University-Enrollment-System/releases/download/v1.0/University.Enrollment.System.Demo.mp4
