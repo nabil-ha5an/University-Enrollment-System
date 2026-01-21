@@ -1,5 +1,5 @@
 # University-Enrollment-System
-A group project featuring a student friendly University Enrollment System made for the academic course COMP 6905: Software Engineering at MUN. Made using Python, JavaScript, Django, HTML, and CSS; the features include chatbot support, language localization feature,s and user feedback system along with automated testing features.
+A group project featuring a student-friendly university enrollment system developed for the academic course COMP 6905: Software Engineering at MUN. Made using Python, JavaScript, Django, HTML, and CSS; the features include chatbot support, language localization features, and a user feedback system, along with automated testing features.
 
 ### Project Demonstration
 [![Watch the Demo](https://img.youtube.com/vi/Cy9KmvIoD6Q/maxresdefault.jpg)](https://youtu.be/Cy9KmvIoD6Q)
